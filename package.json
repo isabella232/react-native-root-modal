@@ -1,14 +1,14 @@
 {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "name": "react-native-root-modal",
     "description": "react native modal component",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-modal"
+        "url": "https://github.com/objectpartners/react-native-root-modal"
     },
     "dependencies": {
-        "react-native-root-siblings": "^1.2.1"
+        "react-native-root-siblings": "git+https://github.com/objectpartners/react-native-root-siblings"
     },
     "main": "./lib/Modal.js",
     "keywords": [
